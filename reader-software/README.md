@@ -14,6 +14,13 @@
 - **Start fast.** Needle drop to sound under 2 seconds, also mid-album. Decoding starts
   on the first frames; there is no scanning step the listener sees.
 
+## Where the code lives
+
+- **Public (here):** capture, hardware control, app and UI, playback, and the *paper*
+  disc decoder used for teaching.
+- **Private, NDA only (`Belquer/AURORA-core`):** the production decoder library (locate,
+  unwrap, classify, sync, error correction for the real format).
+
 ## Modules
 
 ```

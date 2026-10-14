@@ -12,5 +12,5 @@ What this area still does here, in public:
 - **Coupon patterns** (dot ladders) are generated privately and handed to production as
   print files following [spec/print-file.md](../spec/print-file.md).
 
-Students who need to work on the encoder sign the project NDA and are added to the
-private repository.
+Students who need to work on the encoder or the production decoder sign the project NDA
+and are added to the private repository `Belquer/AURORA-core`.
