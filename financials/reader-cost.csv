@@ -1,0 +1,12 @@
+part,prototype_pick,prototype_usd,streamlined_pick,streamlined_low_usd,streamlined_high_usd,notes
+computer,Raspberry Pi 5 2GB,65,Raspberry Pi Zero 2 W (or CM-class module),15,20,read-ahead means a slower read is fine; check decode speed on Zero 2 W
+camera,Pi Global Shutter Camera IMX296,55,colour global-shutter module (IMX296 board or OV9782) at volume,12,30,verify Pi driver support for the cheaper sensor
+lens,16 mm C-mount lens + extension tubes,65,fixed-focus M12 lens + spacer set to ~0.3x,3,8,
+light,white LEDs + MOSFET + polarizer film,20,LEDs + driver on the carrier board + polarizer film,3,5,
+light_cone_and_housing,3D print + flock paper,5,moulded housing incl. cone and clamp,5,10,mould tooling not included (one-off ~$5k-15k)
+arm_motor,TBD,10,small stepper or servo + driver + arm,5,8,
+audio,PCM5102A DAC + relay + RCA jacks,15,DAC + relay + RCA on the carrier board,3,5,
+carrier_board,none,0,custom PCB: DAC relay LED and motor drivers buttons,5,10,
+power,USB-C supply,10,5 V USB-C supply,4,8,
+cooling_cable,Active Cooler + Pi 5 camera cable,7,camera cable only,1,2,
+assembly_and_test,self,0,contract assembly + test,5,10,

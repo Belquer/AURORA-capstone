@@ -1,0 +1,9 @@
+item,unit,qty_per_disc,unit_cost_low_usd,unit_cost_high_usd,notes
+blank_diecut,each,1,0.40,0.80,white rPET or ABS 1 mm bought die-cut at volume (1000+); in-house from 12x12 sheets is ~2.00-3.00
+ink_cmy_and_track_rings,ml,1.6,0.15,0.30,~0.8 ml per side (random data ~50% coverage per colour); measure on first print
+clear_top_coat_optional,ml,1.4,0.15,0.30,~0.7 ml per side; skip if the rub test passes without it
+sleeve,each,1,0.15,0.40,plain paper inner sleeve
+printer_upkeep,disc,1,0.10,0.30,head cleaning fluid, wipes, UV lamp wear
+electricity,disc,1,0.02,0.05,~0.15 kWh per disc
+printer_amortisation,disc,1,0.00,0.55,0 on loan; 0.55 = $3300 over 6000 discs (3 years x 2000)
+labour_hands_on_optional,minute,5,0.00,0.33,load/flip/unload/sleeve; 0 if the artist does it; 0.33/min = $20/h
